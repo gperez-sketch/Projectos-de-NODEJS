@@ -21,6 +21,7 @@
 	"dependencies": {
 		"@google/genai": "^1.40.0",
 		"child_process": "^1.0.2",
-		"node-cron": "^4.2.1"
+		"node-cron": "^4.2.1",
+		"systeminformation": "^5.30.7"
 	}
 }
